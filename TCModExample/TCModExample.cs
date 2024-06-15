@@ -1,5 +1,5 @@
 ﻿using ANToolkit;
-using ANToolkit.Controllers;
+using ANToolkit.Controllers; 
 using ANToolkit.Level;
 using Asuna.CharManagement;
 using Asuna.Dialogues;
@@ -46,8 +46,7 @@ namespace TCModExample
 
         private void GenerateDialogue()
         {
-            var character = ScriptableObject.CreateInstance<Character>();
-
+            var character = Character.Get("Jenna");
             var expression = character.GetPresetExpressionID(PresetExpression.Idle);
 
             var newLine = new DialogueLine()
