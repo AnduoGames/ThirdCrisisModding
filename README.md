@@ -6,7 +6,7 @@ Requirements for C# modding:
 - .net 2.1 installed
 
 
-Clone the repository, open the .sln. You will need to tell Visual Studio where 2 dll files that come with the game are located. These dll files can be found in your game installation Third Crisis\ThirdCrisis_Data\Managed
+Clone the repository, open the .sln. You will need to tell Visual Studio where 3 dll files that come with the game are located. These dll files can be found in your game installation Third Crisis\ThirdCrisis_Data\Managed
 - Assembly-CSharp.dll
 - UnityEngine.CoreModule.dll
 - UnityEngine.PhysicsModule.dll
