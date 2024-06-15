@@ -6,6 +6,13 @@ Requirements for C# modding:
 - .net 2.1 installed
 
 
+
+[<b>WIKI with code examples</b>](https://github.com/AnduoGames/ThirdCrisisModding/wiki)
+
+
+
+<h2>SETUP</h2>
+
 Clone the repository, open the .sln. You will need to tell Visual Studio where 3 dll files that come with the game are located. These dll files can be found in your game installation Third Crisis\ThirdCrisis_Data\Managed
 - Assembly-CSharp.dll
 - UnityEngine.CoreModule.dll
