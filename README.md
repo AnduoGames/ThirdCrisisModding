@@ -1,4 +1,4 @@
-# ThirdCrisisModding
+# Third Crisis Modding
 
 Requirements for C# modding:
 - A bought copy of Third Crisis ([Steam](https://store.steampowered.com/app/1260820/Third_Crisis/) | [Itchio](https://anduogames.itch.io/third-crisis) | [GOG](https://www.gog.com/en/game/third_crisis))
@@ -7,7 +7,7 @@ Requirements for C# modding:
 
 
 
-[<b>WIKI with code examples</b>](https://github.com/AnduoGames/ThirdCrisisModding/wiki)
+# [<b>WIKI with code examples</b>](https://github.com/AnduoGames/ThirdCrisisModding/wiki)
 
 
 
