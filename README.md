@@ -1,10 +1,17 @@
-# ThirdCrisisModding
+# Third Crisis Modding
 
 Requirements for C# modding:
 - A bought copy of Third Crisis ([Steam](https://store.steampowered.com/app/1260820/Third_Crisis/) | [Itchio](https://anduogames.itch.io/third-crisis) | [GOG](https://www.gog.com/en/game/third_crisis))
 - [Visual Studio 2022](https://visualstudio.microsoft.com/downloads/)
 - .net 2.1 installed
 
+
+
+# [<b>WIKI with code examples</b>](https://github.com/AnduoGames/ThirdCrisisModding/wiki)
+
+
+
+<h2>SETUP</h2>
 
 Clone the repository, open the .sln. You will need to tell Visual Studio where 3 dll files that come with the game are located. These dll files can be found in your game installation Third Crisis\ThirdCrisis_Data\Managed
 - Assembly-CSharp.dll
@@ -30,3 +37,5 @@ Happy modding!
 
 https://github.com/AnduoGames/ThirdCrisisModding/assets/63800758/c215214c-16c2-4222-ba5d-c61a05ba2216
 
+Check out the Wiki for more instructions!
+[<b>WIKI with code examples</b>](https://github.com/AnduoGames/ThirdCrisisModding/wiki)
