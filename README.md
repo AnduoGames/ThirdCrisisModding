@@ -46,3 +46,5 @@ Check out the Wiki for more instructions!
 [<b>WIKI with code examples</b>](https://github.com/AnduoGames/ThirdCrisisModding/wiki)
 
 Please note the [Prohibited Content](https://github.com/AnduoGames/ThirdCrisisModding/wiki/Prohibited-Content)
+
+Thanks to BlauKitten for the support in making this SDK! ♥
