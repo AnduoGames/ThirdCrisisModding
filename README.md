@@ -3,6 +3,8 @@
 
 # Third Crisis Modding
 
+Modding Third Crisis works by loading a C# dll into the game at runtime. Through this dll file, you can change anything in the game.
+
 Requirements for C# modding:
 - A bought copy of Third Crisis ([Steam](https://store.steampowered.com/app/1260820/Third_Crisis/) | [Itchio](https://anduogames.itch.io/third-crisis) | [GOG](https://www.gog.com/en/game/third_crisis))
 - [Visual Studio 2022](https://visualstudio.microsoft.com/downloads/)
