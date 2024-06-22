@@ -1,3 +1,6 @@
+![Modding](https://github.com/AnduoGames/ThirdCrisisModding/assets/63800758/b342e306-8baf-44da-8b9e-7a829e977a00)
+
+
 # Third Crisis Modding
 
 Requirements for C# modding:
